@@ -23,8 +23,6 @@ Download the dataset from the Kaggle competition page: Playground Series Season 
 
 Place the downloaded files in a directory named data within the project folder:
 
-kotlin
-Copy code
 flood-prediction/
 │
 ├── data/
@@ -37,7 +35,7 @@ flood-prediction/
 Usage
 To train the model and generate predictions, run the following command:
 
-bash
+
 Copy code
 python flood.py
 This will output the predictions to submission.csv.
